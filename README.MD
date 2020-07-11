@@ -1,3 +1,3 @@
-# Canvas Clock Example
+# js-clock
 
-# Clock using Canvas, HTML and Javascript
+Basic clock using javascript and html5/canvas
